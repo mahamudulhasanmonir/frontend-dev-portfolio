@@ -1,118 +1,175 @@
 {
-    "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
-      "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
-      }
-    },
-    "projects": [
-      {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
-        "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
-      }
-    ]
-  }
+"basic_info": {
+"description_header": "আসসালামু আলাইকুম",
+"description": "আমি মাহামুদুল হাসান, একজন ফ্রন্টএন্ড ডেভেলপার। React, Next.js, Vue এবং WordPress–এ কাজ করতে বিশেষ দক্ষ। আমি পরিষ্কার, আধুনিক ও ব্যবহারবান্ধব ওয়েব ইন্টারফেস তৈরি করতে মনোযোগী। আপনি যদি আমার প্রোজেক্টগুলো পছন্দ করেন, তবে যেসব রিপোজিটরি ভালো লাগে সেখানে ⭐ দিতে ভুলবেন না— এতে অন্য ব্যবহারকারীদের কাছে সেগুলো আরও সহজে পরিচিত হবে। ধন্যবাদ 💜",
+"section_name": {
+"about": "About me",
+"projects": "Projects",
+"skills": "Skills",
+"experience": "Experience"
+}
+},
+"projects": [
+{
+"title": "Memory Card Game",
+"startDate": "2024",
+"description": "A simple memory card matching game built with React, CSS3, and JavaScript ES6+.",
+"images": [],
+"url": "https://github.com/mahamudulhasanmonir/memory-card-game",
+"technologies": [
+{
+"class": "devicon-react-original",
+"name": "React"
+},
+{
+"class": "devicon-javascript-plain",
+"name": "JavaScript"
+},
+{
+"class": "devicon-css3-plain",
+"name": "CSS"
+}
+]
+},
+{
+"title": "Essential WP Tools",
+"startDate": "2024",
+"description": "Essential WP Tools is an all-in-one solution for optimizing, securing, and enhancing your WordPress website. With a comprehensive suite of features, this plugin empowers website owners to streamline their site management, boost performance, and fortify security effortlessly. (Forked from RactStudio/essential-wp-tools)",
+"images": [],
+"url": "https://github.com/mahamudulhasanmonir/essential-wp-tools",
+"technologies": [
+{
+"class": "devicon-wordpress-plain",
+"name": "WordPress"
+},
+{
+"class": "devicon-php-plain",
+"name": "PHP"
+},
+{
+"class": "devicon-javascript-plain",
+"name": "JavaScript"
+}
+]
+},
+{
+"title": "Typing Speed Test",
+"startDate": "2024",
+"description": "Type shown text accurately and measure WPM. Real-time feedback.",
+"images": [],
+"url": "https://github.com/mahamudulhasanmonir/Typing-Speed-Test",
+"technologies": [
+{
+"class": "devicon-javascript-plain",
+"name": "JavaScript"
+},
+{
+"class": "devicon-html5-plain",
+"name": "HTML"
+},
+{
+"class": "devicon-css3-plain",
+"name": "CSS"
+}
+]
+},
+{
+"title": "Age Calculator",
+"startDate": "2024",
+"description": "A simple age calculator built with HTML, CSS, and JavaScript.",
+"images": [],
+"url": "https://github.com/mahamudulhasanmonir/Age-Calculator",
+"technologies": [
+{
+"class": "devicon-html5-plain",
+"name": "HTML"
+},
+{
+"class": "devicon-css3-plain",
+"name": "CSS"
+},
+{
+"class": "devicon-javascript-plain",
+"name": "JavaScript"
+}
+]
+},
+{
+"title": "Modern Login System",
+"startDate": "2024",
+"description": "A minimal login system based on HTML, CSS, and Javascript. In future, plans to add more unique features with advanced technologies.",
+"images": [],
+"url": "https://github.com/mahamudulhasanmonir/login-system",
+"technologies": [
+{
+"class": "devicon-html5-plain",
+"name": "HTML"
+},
+{
+"class": "devicon-css3-plain",
+"name": "CSS"
+},
+{
+"class": "devicon-javascript-plain",
+"name": "JavaScript"
+}
+]
+},
+{
+"title": "Vue Todo App",
+"startDate": "2023",
+"description": "A simple todo list application built with Vue.js, demonstrating component-based architecture and state management.",
+"images": [],
+"url": "https://github.com/mahamudulhasanmonir/vue-todo-app",
+"technologies": [
+{
+"class": "devicon-vuejs-plain",
+"name": "Vue"
+},
+{
+"class": "devicon-javascript-plain",
+"name": "JavaScript"
+},
+{
+"class": "devicon-css3-plain",
+"name": "CSS"
+}
+]
+}
+],
+"experience": [
+{
+"company": "Project RS Team",
+"title": "Frontend Developer",
+"years": "2023 - present",
+"mainTech": [
+"React",
+"Next.js"
+],
+"technologies": [
+"REST API",
+"JavaScript",
+"Bootstrap",
+"WordPress",
+"Vue",
+"CSS",
+"HTML"
+]
+},
+{
+"company": "Freelance",
+"title": "WordPress Developer",
+"years": "2022 - 2023",
+"mainTech": [
+"WordPress",
+"Vue"
+],
+"technologies": [
+"PHP",
+"JavaScript",
+"CSS",
+"HTML"
+]
+}
+]
+}

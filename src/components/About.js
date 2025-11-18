@@ -72,12 +72,12 @@ class About extends Component {
                     className="card-body font-trebuchet text-justify ml-3 mr-3"
                     style={{
                       height: "auto",
-                      fontSize: "132%",
+                      fontSize: "152%",
                       lineHeight: "200%",
                     }}
                   >
                     <br />
-                    <span className="wave">{hello} :) </span>
+                    <span className="wave">{hello} 😊 </span>
                     <br />
                     <br />
                     {about}
