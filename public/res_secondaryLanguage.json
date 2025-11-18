@@ -4,9 +4,9 @@
       "description": "I'm Mahamudul Hasan, a frontend developer specializing in React, Next.js, Vue, and WordPress. I focus on building clean, modern, and user-friendly web interfaces. If you like my projects, make sure to ⭐ the repository you like to make it more recognizable for other users. Thank you 💜",
       "section_name": {
         "about": "About Me",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
       }
     },
     "projects": [
